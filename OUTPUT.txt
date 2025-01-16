@@ -1,0 +1,23 @@
+OUTPUT:
+CASE!:
+[
+  {
+    "_id": "63cfa1b9b5b12e2c4a0b3d9c",
+    "name": "Alice",
+    "email": "alice@example.com"
+  },
+  {
+    "_id": "63cfa1b9b5b12e2c4a0b3d9d",
+    "name": "Bob",
+    "email": "bob@example.com"
+  },
+  {
+    "_id": "63cfa1b9b5b12e2c4a0b3d9e",
+    "name": "Charlie",
+    "email": "charlie@example.com"
+  }
+]
+CASE 2:
+{
+  "error": "Network response was not ok"
+}
